@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "orc8r": {
+      "type": "http",
+      "url": "https://orc8r.com/mcp"
+    }
+  }
+}

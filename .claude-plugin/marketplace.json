@@ -1,0 +1,14 @@
+{
+  "name": "orc-claude-plugin",
+  "description": "The ORC8R plugin for Claude",
+  "owner": {
+    "name": "admte"
+  },
+  "plugins": [
+    {
+      "name": "orc8r",
+      "source": "./plugins/orc8r",
+      "description": "Connect Claude to ORC8R Cloud with OAuth"
+    }
+  ]
+}

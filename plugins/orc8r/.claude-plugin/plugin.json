@@ -1,0 +1,11 @@
+{
+  "name": "orc8r",
+  "displayName": "ORC8R",
+  "version": "0.1.0",
+  "description": "Work with your ORC8R Cloud organizations, projects, nodes, usage, and other permitted operations from Claude.",
+  "author": {
+    "name": "admte",
+    "url": "https://orc8r.com"
+  },
+  "license": "MIT"
+}
