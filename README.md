@@ -22,9 +22,13 @@ Start a new Claude Code session, run `/mcp`, and authenticate `plugin:orc8r:orc8
 
 ## Access
 
-ORC8R asks each user to sign in and approve access. The default `orc:read` scope allows reads; `orc:write` must be selected to make changes. ORC8R also applies the user's existing organization permissions. The plugin contains no API keys or user credentials.
+ORC8R asks each user to sign in and approve access. The consent page always grants `orc:read`, which allows reads; tick `orc:write` to allow changes. ORC8R also applies the user's existing organization permissions. The plugin contains no API keys or user credentials.
 
 See [ORC8R's MCP documentation](https://orc8r.com/docs/mcp) for available tools, scopes, and how to revoke a connection.
+
+## Self-hosted ORC8R
+
+This plugin connects to ORC8R Cloud at `https://orc8r.com/mcp`. For a self-hosted ORC8R server, add `https://<your-server>/mcp` as a custom connector instead.
 
 ## Repository layout
 
