@@ -2,7 +2,7 @@
   "name": "orc-claude-plugin",
   "description": "The ORC8R plugin for Claude",
   "owner": {
-    "name": "admte"
+    "name": "ADM Tech"
   },
   "plugins": [
     {
