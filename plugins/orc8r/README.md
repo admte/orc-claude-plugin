@@ -6,6 +6,6 @@ This plugin connects Claude to ORC8R Cloud through the remote MCP server at `htt
 
 [Privacy](https://orc8r.com/privacy) explains how ORC8R handles data sent to its service through the connector.
 
-## Help
+## Support and terms
 
-See the [ORC8R MCP documentation](https://orc8r.com/docs/mcp) for available tools, scopes, and how to revoke access.
+See the [ORC8R MCP documentation](https://orc8r.com/docs/mcp) for available tools, scopes, and how to revoke access. To request help, sign in and open [Support](https://orc8r.com/support); the public [support guide](https://orc8r.com/docs/support) explains the process. Use of ORC8R is subject to its [Terms of Service](https://orc8r.com/terms).
