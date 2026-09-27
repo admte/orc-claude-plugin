@@ -1,7 +1,7 @@
 {
   "name": "orc8r",
   "displayName": "ORC8R",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Work with your ORC8R Cloud organizations, projects, nodes, usage, and other permitted operations from Claude.",
   "author": {
     "name": "ADM Tech",
@@ -9,7 +9,6 @@
   },
   "homepage": "https://orc8r.com/docs/mcp",
   "repository": "https://github.com/admte/orc-claude-plugin",
-  "privacyPolicyUrl": "https://orc8r.com/privacy",
   "license": "MIT",
   "keywords": ["orc8r", "infrastructure", "cloud", "nodes", "mcp"]
 }

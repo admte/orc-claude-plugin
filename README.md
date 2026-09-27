@@ -26,7 +26,9 @@ ORC8R asks each user to sign in and approve access. The consent page always gran
 
 See [ORC8R's MCP documentation](https://orc8r.com/docs/mcp) for available tools, scopes, and how to revoke a connection.
 
-Read the [ORC8R Privacy Policy](https://orc8r.com/privacy) for how ORC8R handles data sent through its service.
+## Privacy
+
+[Privacy](https://orc8r.com/privacy) explains how ORC8R handles data sent through its service.
 
 ## Self-hosted ORC8R
 
