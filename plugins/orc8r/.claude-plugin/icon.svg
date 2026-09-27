@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">ORC8R</title>
+  <defs>
+    <linearGradient id="orc8r-gradient" x1="130.61" y1="17.45" x2="169.59" y2="17.45" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f25768"/>
+      <stop offset=".02" stop-color="#ee5470"/>
+      <stop offset=".19" stop-color="#d446ab"/>
+      <stop offset=".33" stop-color="#c13cd6"/>
+      <stop offset=".44" stop-color="#b536f1"/>
+      <stop offset=".5" stop-color="#b134fb"/>
+      <stop offset=".58" stop-color="#a330fb"/>
+      <stop offset=".72" stop-color="#7e26fb"/>
+      <stop offset=".91" stop-color="#4316fc"/>
+      <stop offset="1" stop-color="#270ffd"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="48" fill="#11121b"/>
+  <svg x="36" y="42" width="184" height="172" viewBox="130.61 0 38.98 34.9">
+    <path fill="url(#orc8r-gradient)" d="M142.13,34.9c-6.86,0-11.52-4.13-11.52-11.04,0-3.7,2.06-6.43,4.7-7.54-1.97-.91-3.98-2.98-3.98-7.2,0-6.05,4.66-9.12,11.67-9.12h14.16c7.01,0,11.71,3.07,11.71,9.12,0,4.22-2.06,6.29-4.03,7.2,2.64,1.1,4.75,3.84,4.75,7.54,0,6.91-4.7,11.04-11.57,11.04h-15.89ZM142.37,20.11c-2.69,0-4.13,1.39-4.13,3.65s1.82,3.65,4.75,3.65h14.21c2.88,0,4.75-1.3,4.75-3.65s-1.44-3.65-4.13-3.65h-15.46ZM143.47,7.44c-2.98,0-4.56,1.06-4.56,3.41s1.25,3.36,3.98,3.36h14.4c2.69,0,3.98-1.1,3.98-3.36s-1.58-3.41-4.56-3.41h-13.25Z"/>
+  </svg>
+</svg>
